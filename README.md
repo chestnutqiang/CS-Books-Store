@@ -5,7 +5,8 @@
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/CS-Books-Store">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/CS-Books-Store">
 </p>
-# 解  -->  200529 
+
+<h1 align="left">解  -->  200529 </h1>
 
 CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
 
